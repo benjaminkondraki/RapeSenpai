@@ -4,4 +4,4 @@
 的
 [吃掉小鹿乃](https://github.com/arcxingye/EatKano)
 
-纯有害无恶搞
+纯恶意无恶搞
