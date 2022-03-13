@@ -56,7 +56,7 @@ var refreshSizeTime;
 
 function refreshSize() {
     clearTimeout(refreshSizeTime);
-    refreshSizeTime = setTimeout(_refreshSize, 200);
+    refreshSizeTime = setTimeout(_refreshSize, 10000);
 }
 
 function _refreshSize() {
